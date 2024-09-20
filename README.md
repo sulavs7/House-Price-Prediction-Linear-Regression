@@ -27,25 +27,28 @@ joblib==1.2.0
 numpy==1.24.2
 ```
 
-You can install these using the requirements.txt file by following command mentioned bellow in your terminal:
+## You can install these using the requirements.txt file by following command mentioned bellow in your terminal:
+```txt
 pip install -r requirements.txt
-
-How to Clone the Repository
+```
+## How to Clone the Repository
 To clone this repository, run the following command in your terminal:
+```txt
 git clone https://github.com/sulavs7/House-Price-Prediction-Linear-Regression.git
-
+```
 
 Once cloned, navigate to the project directory:
+```txt
 cd House-Price-Prediction-Linear-Regression
+```
 
-
-How to Use
+## How to Use
 1.Make sure the required packages are installed (pandas, scikit-learn, etc.).
 2.Run the main.py script in the models folder.
 3.Enter the path to your dataset when prompted. The predictions will be saved to predictions.csv.
 
 
-License
+## License
 This project is licensed under the MIT License.
 
 
